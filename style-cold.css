@@ -1,0 +1,39 @@
+body {
+    background-color:rgb(53, 175, 181);
+    margin: 0;
+}
+
+#top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(0, 8, 156);
+    padding: 0 5% 0 3%;
+    color: aliceblue;
+}
+
+button {
+    padding: 15px 30px;
+    background-color: rgb(53, 175, 181);
+    border-style: none;
+    margin: 0 10px;
+    font-weight: bolder;
+    font-size: 1.5vh;
+    border-radius: 10%;
+}
+
+#pick_button {
+    margin: 30% 30% 0%;
+    padding: 15px 20px;
+    background-color: rgb(0, 8, 156);
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin: 5% 25%;
+    text-align: center;
+}
