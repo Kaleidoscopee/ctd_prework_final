@@ -40,5 +40,8 @@ p {
 #randomDrink {
     font-weight: bolder;
     font-size: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 

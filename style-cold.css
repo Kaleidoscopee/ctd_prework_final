@@ -37,3 +37,12 @@ p {
     margin: 5% 25%;
     text-align: center;
 }
+
+#randomDrink {
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
