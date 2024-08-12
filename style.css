@@ -37,4 +37,8 @@ p {
     text-align: center;
 }
 
+#randomDrink {
+    font-weight: bolder;
+    font-size: 10vh;
+}
 
