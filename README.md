@@ -1,7 +1,12 @@
+# Start
+
+To simply visit and test the site go here -> https://vercel.com/kaleidoscopees-projects/ctd-prework-final/5SX46Vasyoga9CsLXdeiZDMH5uVg
+and click visit to test it out. 
+
 # Morning Wakeup
 
 Welcome to the morning drink randomizer!
-Just simply choose between Hot or Cold, and then click the "Click Here" to be suggested a drink. 
+Just simply choose between Hot or Cold, and then click the "Pick For Me" to be suggested a drink. 
 
 
 
